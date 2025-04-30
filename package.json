@@ -1,0 +1,23 @@
+{
+  "name": "fake-pong-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LounisAbdellou/fake-pong-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LounisAbdellou/fake-pong-api/issues"
+  },
+  "homepage": "https://github.com/LounisAbdellou/fake-pong-api#readme",
+  "description": "",
+  "dependencies": {
+    "fastify": "^4.0.0"
+  }
+}
